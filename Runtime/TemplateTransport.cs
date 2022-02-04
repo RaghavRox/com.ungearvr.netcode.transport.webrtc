@@ -1,9 +1,9 @@
 ﻿using System;
 using Unity.Netcode;
 
-namespace Netcode.Transports.Template
+namespace Netcode.Transports.WebRTC
 {
-    public class TemplateTransport : NetworkTransport
+    public class WebRTCTransport : NetworkTransport
     {
         public override void Send(ulong clientId, ArraySegment<byte> data, NetworkDelivery delivery)
         {

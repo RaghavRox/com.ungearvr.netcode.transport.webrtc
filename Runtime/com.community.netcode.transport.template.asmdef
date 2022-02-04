@@ -1,6 +1,6 @@
 {
-    "name": "[name] Transport for Netcode for GameObjects",
-    "rootNamespace": "Netcode.Transport.[name]",
+    "name": "WebRTC Transport for Netcode for GameObjects",
+    "rootNamespace": "Netcode.Transports.WebRTC",
     "references": [
         "com.unity.netcode.runtime"
     ],
