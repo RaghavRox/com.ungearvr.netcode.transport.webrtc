@@ -1,8 +1,8 @@
 {
-    "name": "WebRTC Transport for Netcode for GameObjects",
-    "rootNamespace": "Netcode.Transports.WebRTC",
+    "name": "Photon Realtime Transport for Netcode for GameObjects",
+    "rootNamespace": "Netcode.Transports.PhotonRealtime",
     "references": [
-        "com.unity.netcode.runtime"
+        "Unity.Netcode.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
