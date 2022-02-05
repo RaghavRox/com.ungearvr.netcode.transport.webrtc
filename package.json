@@ -5,5 +5,7 @@
   "unity": "2019.4",
   "description": "WebRTC Transport for Netcode for GameObjects",
   "author": "Raghav",
-  "dependencies": {}
+  "dependencies": {
+    "com.unity.netcode.gameobjects": "1.0.0-pre.5"
+  }
 }
