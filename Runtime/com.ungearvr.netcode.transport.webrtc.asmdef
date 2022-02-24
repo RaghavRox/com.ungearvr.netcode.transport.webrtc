@@ -1,8 +1,9 @@
 {
     "name": "WebRTC Transport for Netcode for GameObjects",
-    "rootNamespace": "Netcode.Transports.WebRTC",
+    "rootNamespace": "Netcode.Transports.WebRTCTransport",
     "references": [
-        "Unity.Netcode.Runtime"
+        "Unity.Netcode.Runtime",
+        "Unity.WebRTC"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
