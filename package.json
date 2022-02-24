@@ -5,5 +5,7 @@
   "unity": "2019.4",
   "description": "WebRTC Transport for Netcode for GameObjects",
   "dependencies": {
+    "com.unity.netcode.adapter.utp" : "1.0.0-pre.5",
+    "com.unity.webrtc" : "2.4.0-exp.6"
   }
 }
